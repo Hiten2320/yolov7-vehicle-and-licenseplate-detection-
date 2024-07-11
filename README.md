@@ -14,7 +14,7 @@ pip install easyocr (for text recognition)
 pip install mysq.connector (for connection to database)
 ```
 
-## Now For vheical Detection:
+## Now For vehicle Detection:
 
 ## For Count of the vehicle:
 ```shell
