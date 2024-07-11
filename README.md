@@ -1,3 +1,5 @@
+## This is for license Plate detection
+
 ## For run the code: 
 ``` shell
 python main.py --weights best2.pt --source 5.mp4
@@ -11,3 +13,13 @@ python main.py --weights best2.pt --source .\test\3.jpg
 pip install easyocr (for text recognition)
 pip install mysq.connector (for connection to database)
 ```
+
+## Now For vheical Detection:
+
+## For Count of the vehicle:
+```shell
+Just run the vehicle_v1_count.py (by adding or pt file and source in the code itself)
+```
+## For the vehicle in and out  using ROI:
+```shell
+Just run the reat_roi_vehicle.py (by adding or pt file and source in the code itself)
